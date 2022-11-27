@@ -1,1 +1,2 @@
 # WebAppSobatflora1.0
+SobatFlora WebApp application is a web-based application which has the feature of being able to monitor the weather with temperature and humidity parameters around the monitoring point. Monitoring points are along the Brantas river with a total of five points watch. The application can display the location of monitoring points in detail and provide information regarding the flora around the monitoring point and its diseases.
